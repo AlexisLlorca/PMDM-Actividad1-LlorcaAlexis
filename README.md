@@ -27,7 +27,7 @@ app/src/main/java/com/example/practica_act1/
 │   ├── MainActivity.kt          Punto de entrada y navegación
 │   ├── ResultadosActivity.kt    Segunda pantalla
 │   ├── VistaPeticionDatos.kt    Formulario
-│   └── VistaResultados.kt       Tarjeta de resultados
+│   └── VistaResultados.kt       Lista de resultados
 └── ui/theme/                    Tema de Compose (generado por la plantilla)
 ```
 
